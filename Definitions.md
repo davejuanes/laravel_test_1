@@ -54,3 +54,8 @@ public function testEmail()
 }
 ```
 Ya con las ultimas validaciones.
+## Accessos & Mutators
+### Accessors
+Los accessos transforman un atributo antes de ser presentado.
+### Mutators
+Un mutator transforma un atributo antes de ser almacenado.
